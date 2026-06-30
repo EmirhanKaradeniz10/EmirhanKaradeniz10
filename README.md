@@ -1,16 +1,16 @@
-## Hi there 👋
+---
 
-<!--
-**EmirhanKaradeniz10/EmirhanKaradeniz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Academic & Group Projects
 
-Here are some ideas to get you started:
+### 🚀 ESE-SEL-B_Group1 / FlightDiary
+Developed as a core group project during my software engineering coursework at the University of Bamberg. FlightDiary is a flight tracking and airport/route management application designed to log flight histories and validate operational data. I actively contributed to the team environment, focusing on Git workflow management, build tool configuration, and data integrity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👥 **Team Collaboration:** Developed within a 4-member team using Agile practices, utilizing code reviews and feature branching.
+
+🛠️ **Technical Stack:** Managed project dependencies and automated builds using Gradle, while version control and CI pipeline testing were executed via GitLab.
+
+💻 **Core Functionality:** Implemented modular logic to handle IATA airport codes, route mappings, and user flight logs within a consistent database design.
+
+🔒 **Project Status:** The repository is hosted as a Private project on GitLab due to university academic integrity and copyright policies.
+
+🔗 **Repository Link:** [View Project on GitLab](https://gitlab.studium.uni-bamberg.de/ese-sel-b_group1/group1)
